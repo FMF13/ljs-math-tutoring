@@ -49,7 +49,7 @@ export default function RootLayout({
               <span className="font-semibold">LJS Math Tutoring</span>
             </Link>
 
-            <nav className="text-sm flex gap-4">
+            <nav className="text-sm flex flex-wrap justify-end gap-x-4 gap-y-2">
               <Link href="/" className="hover:underline">
                 Home
               </Link>
