@@ -22,7 +22,7 @@ export default function PoliciesPage() {
           If you’re unsatisfied after the first session or felt dissapointed, a full refund will be issued no questions asked hassle free.
         </p>
 
-        <section className="mt-12 rounded-2xl bg-zinc-100 p-8">
+        <section className="mt-12 rounded-2xl bg-white p-8">
           <div className="flex flex-col items-center gap-4">
             <Link
               href="/book"
