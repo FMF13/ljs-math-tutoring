@@ -56,9 +56,7 @@ export default function RootLayout({
               <Link href="/services" className="hover:underline">
                 Services
               </Link>
-              <Link href="/services" className="hover:underline">
-                Pricing
-              </Link>
+      
 
               <span className="mx-1 text-zinc-300">|</span>
 
