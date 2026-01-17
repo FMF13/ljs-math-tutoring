@@ -22,9 +22,20 @@ export default function PoliciesPage() {
           If you’re unsatisfied after the first session or felt dissapointed, a full refund will be issued no questions asked hassle free.
         </p>
 
-        <Link href="/" className="mt-10 inline-block hover:underline">
-          ← Back to home
-        </Link>
+        <section className="mt-12 rounded-2xl bg-zinc-100 p-8">
+          <div className="flex flex-col items-center gap-4">
+            <Link
+              href="/book"
+              className="w-fit rounded-xl bg-zinc-900 px-5 py-3 text-sm font-medium text-white hover:bg-zinc-800"
+            >
+              Book a session
+            </Link>
+
+            <Link href="/" className="text-sm hover:underline">
+              ← Back to home
+            </Link>
+          </div>
+        </section>
       </div>
     </main>
   );

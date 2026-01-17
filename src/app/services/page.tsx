@@ -155,7 +155,7 @@ export default function ServicesPage() {
           />
         </div>
 
-        <section className="mt-12 rounded-2xl bg-zinc-50 p-8">
+        <section className="mt-12 rounded-2xl bg-zinc-100 p-8">
           <div className="flex flex-col items-center gap-4">
             <Link
               href="/book"
