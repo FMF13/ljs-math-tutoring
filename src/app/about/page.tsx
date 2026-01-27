@@ -33,7 +33,7 @@ export default function AboutPage() {
           All tutors have prior relevant experience tutoring elementary, high school and university math to over 25 studens and they themselves have excelled in their math courses.  Each tutor is evaluated to ensure they can explain concepts clearly and help students build confidence in math.
         </p>
 
-        <section className="mt-12 rounded-2xl bg-zinc-100 p-8">
+        <section className="mt-12 rounded-2xl bg-white p-8">
           <div className="flex flex-col items-center gap-4">
             <Link
               href="/book"
