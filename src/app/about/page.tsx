@@ -30,7 +30,7 @@ export default function AboutPage() {
 
         <h2 className="mt-10 text-xl font-semibold">Experience</h2>
         <p className="mt-3 text-zinc-700">
-          All tutors have prior relevant experience tutoring elementary, high school and university math to over 25 studens and they themselves have excelled in their math courses.  Each tutor is evaluated to ensure they can explain concepts clearly and help students build confidence in math.
+          All tutors have prior relevant experience tutoring elementary, high school and university math to over 25 students and they themselves have excelled in their math courses.  Each tutor is evaluated to ensure they can explain concepts clearly and help students build confidence in math.
         </p>
 
         <section className="mt-12 rounded-2xl bg-white p-8">
